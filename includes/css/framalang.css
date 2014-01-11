@@ -1,0 +1,67 @@
+body
+{
+    padding-top: 70px;
+}
+
+table
+{
+    width: 95%;
+    border: 1px solid;
+}
+
+.titleline
+{
+    background-color: rgb(180, 184, 255);
+    text-align: center;
+}
+
+.altline1
+{
+    background-color: rgb(242, 243, 255);
+}
+
+.altline2
+{
+    background-color: rgb(228, 229, 255);
+}
+
+.altlineprio1
+{
+    background-color: rgb(251, 232, 136);
+}
+
+.altlineprio2
+{
+    background-color: rgb(246, 184, 95);
+}
+
+.tradinfo
+{
+    color: rgb(79, 66, 83);
+}
+
+.important
+{
+    color: rgb(255, 0, 0);
+}
+
+#navigator
+{
+    text-align: center;
+}
+
+#cll-navigator
+{
+    text-align: center;
+}
+
+.navbar(min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+}
+
+/*#footer
+{
+    text-align: center;
+}*/
